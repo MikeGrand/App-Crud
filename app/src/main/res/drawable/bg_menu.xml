@@ -1,0 +1,21 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Glow exterior -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@color/neon_red_glow"/>
+            <corners android:radius="25dp"/>
+            <padding android:bottom="15dp" android:top="15dp"
+                android:left="15dp" android:right="15dp"/>
+        </shape>
+    </item>
+
+    <!-- Caja principal -->
+    <item android:top="8dp" android:bottom="8dp" android:left="8dp" android:right="8dp">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/dark_card"/>
+            <corners android:radius="25dp"/>
+        </shape>
+    </item>
+
+</layer-list>

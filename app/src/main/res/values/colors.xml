@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="azulNormal">#2196F3</color>
+    <color name="rojo">#F44336</color>
+    <color name="verde">#4CAF50</color>
+    <color name="amarillo">#FFC107</color>
+    <color name="blanco">#FFFFFF</color>
+    <color name="neon_red">#FF2B2B</color>
+    <color name="neon_red_glow">#FF0000</color>
+    <color name="dark_bg">#1A0000</color>
+    <color name="dark_card">#2A0000</color>
+</resources>
